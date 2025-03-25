@@ -966,7 +966,7 @@ class IntegratedBot(BaseBot):
 
 async def main_loop():
     room_id = "67d74cea5367bec1adfd3d6e"  # عيّن معرف الغرفة المناسب
-    token = "831abe97b08f0b736524f537103ef2ec3513a39805b6f1d11f67dd427d3d95b7"  # عيّن التوكن المناسب
+    token = "3716570c0a6245589f89c75ca1289dfb198e937a"  # عيّن التوكن المناسب
 
     while True:
         try:
